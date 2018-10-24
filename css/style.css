@@ -1,0 +1,107 @@
+h1{
+  font-family: 'Ultra', serif;
+  color: white;
+  font-size: 30px;
+}
+
+
+.main{
+  padding: 10px;
+  color: blue;
+
+
+  background-image: url(../images/chicken_wings1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+
+  height: 500px;
+  text-align: center;
+
+  padding-top: 100px;
+
+}
+
+
+
+.chicken{
+  padding: 10px;
+
+
+  background-image: url(../images/chicken-wings2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% auto;
+  object-fit: contain;
+
+  height: 500px;
+  text-align: center;
+
+  padding-top: 100px;
+}
+
+.lilbitch{
+  padding: 10px;
+
+
+  background-image: url(../images/chicken_wings4.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% auto;
+  object-fit: contain;
+
+  height: 500px;
+  text-align: center;
+
+  padding-top: 100px;
+}
+
+h1{
+  font-family: 'Ultra', serif;
+  font-size: 30px;
+}
+
+
+.btn{
+  margin-top: 20px;
+  btn-align: center;
+}
+
+
+.button-container{
+  text-align: center;
+}
+
+a:link, a:visited{
+ color: #449d44;
+}
+
+
+.btn{
+  margin-top: 20px;
+  btn-align: center;
+}
+
+
+
+.button-container{
+  text-align: center;
+}
+
+body{
+  background-color: #533F70;
+}
+
+p{
+  color: white;
+  text-align: center;
+}
+ul{
+  color: white;
+
+}
+.description{
+  text-align: center;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
